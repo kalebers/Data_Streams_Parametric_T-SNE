@@ -1,4 +1,13 @@
 # Parametric t-SNE  
+----------
+ENGLISH: Archives referring to the prototype are inside the folder parametric-tsne-keras. To execute, it's necessary to follow the software requirements presented on chapter 4 of the artefact.
+
+Main archives: - TSNEClassifier.ipynb: file that contains all experiments reffering to the research and implementation of the TSNEClassifier class. Executed on Anaconda environment with Jupyter lab commands. - parametric_tsne.py: main file for Parametric t-SNE implementation, by Luke Lee.
+
+Portuguese: Os arquivos referentes ao protótipo estão dentro da pasta parametric-tsne-keras. Para executá-los de forma adequada, é necessário atender aos requisitos de software propostos no capítulo 4 do artefato.
+
+Arquivos principais: - TSNEClassifier.ipynb: arquivo onde estão contidos todos os experimentos referentes à pesquisa e a implementação da classe TSNEClassifier. Executado dentro do ambiente Anaconda com o comando jupyter lab. - parametric_tsne.py: arquivo principal da implementação do t-SNE paramétrico, por Luke Lee.
+----------
 
 t-distributed stochastic neighbor embedding, abbreviated as t-SNE, provides the novel method to apply non-linear dimensionality reduction technique that preserves the local structure of original dataset. However, in order to transform newly prepared points, a model must be re-trained with whole dataset. This would be extremely inefficient provided that our previous dataset describes the plausible distribution already. Parametric t-SNE instead gives you an explicit mapping between original data and the embedded points. It is achieved by building a parametric model for prediction and training it using the same loss as t-SNE.
 
