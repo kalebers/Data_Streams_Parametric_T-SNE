@@ -3,7 +3,10 @@
 
 ENGLISH: Archives referring to the prototype are inside the folder parametric-tsne-keras. To execute, it's necessary to follow the software requirements presented on chapter 4 of the artefact.
 
-Main archives: - TSNEClassifier.ipynb: file that contains all experiments reffering to the research and implementation of the TSNEClassifier class. Executed on Anaconda environment with Jupyter lab commands. - parametric_tsne.py: main file for Parametric t-SNE implementation, by Luke Lee.
+Main archives: 
+- TSNEClassifier.ipynb: file that contains all experiments reffering to the research and implementation of the TSNEClassifier class. Executed on Anaconda environment with Jupyter lab commands.
+  
+- parametric_tsne.py: main file for Parametric t-SNE implementation, by Luke Lee.
 
 ----------
 
