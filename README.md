@@ -1,5 +1,7 @@
 # Parametric t-SNE  
 ----------
+This research was conducted by the students André de Macedo Wlodkowski @andrewlod and Kalebe Rodrigues Szlachta @kalebers, mentored by professor Jean Paul Barddal @jpbarddal at Pontifical Catholic University of Paraná
+for the Computer Science graduation final project. 
 
 ENGLISH: Archives referring to the prototype are inside the folder parametric-tsne-keras. To execute, it's necessary to follow the software requirements presented on chapter 4 of the artefact.
 
